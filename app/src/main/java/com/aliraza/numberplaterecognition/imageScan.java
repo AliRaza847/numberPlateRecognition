@@ -11,7 +11,7 @@ import android.widget.TextView;
 
 import com.cardscanner.CardScannerActivity;
 
-public class MainActivity extends AppCompatActivity {
+public class ImageScan extends AppCompatActivity {
 
     Button cameraButton;
     TextView programView;
